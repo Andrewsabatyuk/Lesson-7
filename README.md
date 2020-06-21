@@ -1,1 +1,2 @@
-# Lesson-7
+# Lesson-6
+JS core logos cources
